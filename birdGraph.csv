@@ -1,12 +1,12 @@
-Species,Date, No.,Units,Output
-Blackbird,2022-01-31,1,1,1.0
-Bluetit,2022-01-31,1,1,1.0
-Fieldfare,2022-01-31,1,1,1.0
-Herring Gull,2022-01-31,1,1,1.0
-House sparrow,2022-01-31,1,1,1.0
-Jackdaw,2022-01-31,1,1,1.0
-Magpie,2022-01-31,1,1,1.0
-Mistle thrush,2022-01-31,1,1,1.0
-Robin,2022-01-31,1,1,1.0
-Rook,2022-01-31,1,1,1.0
-Wren,2022-01-31,1,1,1.0
+Species,Date, No.,Units,Frequency,Jan
+Blackbird,2022-01-31,2,2,1.0,1.0
+Bluetit,2022-01-31,1,2,0.5,0.5
+Fieldfare,2022-01-31,1,2,0.5,0.5
+Herring Gull,2022-01-31,1,2,0.5,0.5
+House sparrow,2022-01-31,1,2,0.5,0.5
+Jackdaw,2022-01-31,1,2,0.5,0.5
+Magpie,2022-01-31,1,2,0.5,0.5
+Mistle thrush,2022-01-31,1,2,0.5,0.5
+Robin,2022-01-31,1,2,0.5,0.5
+Rook,2022-01-31,1,2,0.5,0.5
+Wren,2022-01-31,1,2,0.5,0.5
